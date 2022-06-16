@@ -4,9 +4,8 @@
 - 💞️ I’m looking to collaborate on frontend projects
 
 - Some of my projects are:
-- > Whatsapp-Rooms: https://whatsapp-rooms-e3c78.web.app/
 - > Linkedin-Clone: https://linkedin-clone-d2653.web.app/
-- > Google-Clone
+- > Google-Clone, Whatsapp-Rooms.
 - > Bug Twister: https://bug-twister-javaclub.web.app/
 
 - 📫 How to reach me rohit712wd@gmail.com
