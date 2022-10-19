@@ -12,3 +12,5 @@
 - > working on some other projects as well...
 
 - 📫 How to reach me rohit712wd@gmail.com
+
+[![@rohit712wd's Holopin board](https://holopin.me/rohit712wd)](https://holopin.io/@rohit712wd)
