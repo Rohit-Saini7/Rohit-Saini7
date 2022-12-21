@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rohit-Saini7,
-- 👀 I’m interested in fornt-end web development
+- 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning reactjs, styled-components, firebase 
 - 💞️ I’m looking to collaborate on frontend projects
 
