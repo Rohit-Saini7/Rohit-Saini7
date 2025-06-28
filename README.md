@@ -32,7 +32,6 @@ A fullstack Progressive Web App for managing shared group expenses with real-tim
 
 ### 📂 Other Notable Projects
 
-- 🐞 **Bug Twister** – A role-based bug tracker with workflows and filters  
 - 🔍 **Spoofing Filter** – Chrome extension to detect phishing websites  
 - 📋 **CLI Todo List** – Command-line task manager in vanilla JavaScript  
 - 🧪 **JavaScript30** – Vanilla JS projects to strengthen fundamentals
